@@ -1,6 +1,6 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-![header](https://capsule-render.vercel.app/api?type=blur&color=0:259899,100:a82da8&height=100&section=header&text=Hey%20there!&fontSize=50&fontColor=e4eef0&fontAlignY=50&fontAlign=55)
+![header](https://capsule-render.vercel.app/api?type=blur&color=0:259899,100:a82da8&height=150&section=header&text=Hola!&fontSize=50&fontColor=e4eef0&fontAlignY=50&fontAlign=50)
 
 # Who am I?
 
@@ -48,3 +48,5 @@ But don’t let the crafting clutter fool you: I’m actually quite social! It's
 <a href="https://orcid.org/0000-0002-4275-8835">
   <img height="50" src="https://github.com/AndreaRP/assets/blob/main/orcid.png"/>
 </a>
+
+![reversal](https://capsule-render.vercel.app/api?type=waving&color=0:259899,100:a82da8&height=100&reversal=true&section=footer)
