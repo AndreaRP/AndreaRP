@@ -12,19 +12,25 @@ If you peeked through the keyhole, you’d usually find me tinkering with immuno
 When I’m not staring at code or data, you can find me gaming, reading, or deep in some kind of crafting rabbit hole (Arduino, miniatures, cosplay… yes, all of it).
 And don’t let the crafting clutter fool you: I’m actually quite social! I swear I don’t just talk to microscopes and microcontrollers.
 
+
 # Toolkit
 
-<img height="50" src="https://github.com/AndreaRP/assets/blob/main/r-programming-language-icon.png"/>
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" />
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-plain.svg" />
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" />
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg" />
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-plain.svg" />
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" />
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" />
+- **Computational Biology**: 
+
+  - Single Cell Transcriptomics 
+  - Single Cell ATAC-seq 
+  - Proteomics 
+  - Metabolomics 
+  - Bulk RNA-seq
+
+- **Programming**         
+
+<img height=30 src="https://github.com/AndreaRP/assets/blob/main/r-programming-language-icon.png"/><img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /><img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /><img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" /><img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-plain.svg" /><img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" /><img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" /><img height="30" src="https://github.com/AndreaRP/assets/blob/main/navision.png"/>
+
+- **Tools & Platforms**            
+
+<img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" /><img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg" /><img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-plain.svg" /><img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" /><img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" /> 
+
 
 <!--
 # Stats!
