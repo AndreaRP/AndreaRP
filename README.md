@@ -1,6 +1,6 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-![header](https://capsule-render.vercel.app/api?type=blur&color=0:259899,100:a82da8&height=150&section=header&text=¡Hola!&fontSize=50&fontColor=e4eef0&fontAlignY=50&fontAlign=50)
+![header](https://capsule-render.vercel.app/api?type=speech&color=0:259899,100:a82da8&height=100&section=header&text=¡Hola!&fontSize=50&fontColor=e4eef0&fontAlignY=45&fontAlign=50)
 
 # Who am I?
 
@@ -10,7 +10,7 @@ Most of my day is spent wrangling ~top secret~ unpublished data, so sadly many o
 If you peeked through the keyhole, you’d usually find me tinkering with immunology or neurophysiology stuff.
 
 When I’m not staring at code or data, you can find me gaming, reading, or deep in some kind of crafting rabbit hole (Arduino, miniatures, cosplay… yes, all of it).
-But don’t let the crafting clutter fool you: I’m actually quite social! It's not all staring at screens and playing with glue.
+But don’t let the crafting clutter fool you: I’m actually quite social! It's not all glowing screens and playing with glue.
 
 
 # Toolkit
@@ -49,4 +49,4 @@ But don’t let the crafting clutter fool you: I’m actually quite social! It's
   <img height="50" src="https://github.com/AndreaRP/assets/blob/main/orcid.png"/>
 </a>
 
-![reversal](https://capsule-render.vercel.app/api?type=waving&color=0:259899,100:a82da8&height=100&reversal=true&section=footer)
+![reversal](https://capsule-render.vercel.app/api?type=rect&color=0:259899,100:a82da8&height=5&reversal=true&section=footer)
