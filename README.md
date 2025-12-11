@@ -1,4 +1,10 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=blur&color=0:259899,100:a82da8&height=100&section=header&text=Hey%20there!&fontSize=50&fontColor=e4eef0&fontAlignY=50&fontAlign=55)
+
+# Let's connect =)
+
+
+
+
 
 <!--
 **AndreaRP/AndreaRP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
