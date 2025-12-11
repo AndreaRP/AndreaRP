@@ -7,8 +7,8 @@
 <a href="https://scholar.google.com/citations?user=v9RlphgAAAAJ">
   <img height="50" src="https://github.com/AndreaRP/assets/blob/main/mortarboard.png"/>
 </a>
-<a href="https://scholar.google.com/citations?user=v9RlphgAAAAJ">
-  <img height="50" src="https://orcid.org/0000-0002-4275-8835"/>
+<a href="https://orcid.org/0000-0002-4275-8835">
+  <img height="50" src="https://github.com/AndreaRP/assets/blob/main/orcid.png"/>
 </a>
 
 
