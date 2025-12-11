@@ -10,7 +10,7 @@ Most of my day is spent wrangling ~top secret~ unpublished data, so sadly many o
 If you peeked through the keyhole, you’d usually find me tinkering with immunology or neurophysiology stuff.
 
 When I’m not staring at code or data, you can find me gaming, reading, or deep in some kind of crafting rabbit hole (Arduino, miniatures, cosplay… yes, all of it).
-And don’t let the crafting clutter fool you: I’m actually quite social! It's not all staring at screens and playing with glue.
+But don’t let the crafting clutter fool you: I’m actually quite social! It's not all staring at screens and playing with glue.
 
 
 # Toolkit
