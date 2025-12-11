@@ -1,6 +1,6 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-![header](https://capsule-render.vercel.app/api?type=blur&color=0:259899,100:a82da8&height=150&section=header&text=Hola!&fontSize=50&fontColor=e4eef0&fontAlignY=50&fontAlign=50)
+![header](https://capsule-render.vercel.app/api?type=blur&color=0:259899,100:a82da8&height=150&section=header&text=¡Hola!&fontSize=50&fontColor=e4eef0&fontAlignY=50&fontAlign=50)
 
 # Who am I?
 
