@@ -17,6 +17,7 @@ But don’t let the crafting clutter fool you: I’m actually quite social! It's
 
 - **Computational Biology**: 
 
+  - Circadian Biology: Checkout [CircaN](https://github.com/AndreaRP/CircaN), my R package for circadian gene detection ([Rubio-Ponce, A (2021)](https://doi.org/10.1093/nargab/lqab031)).
   - Single Cell Transcriptomics 
   - Single Cell ATAC-seq 
   - Proteomics 
