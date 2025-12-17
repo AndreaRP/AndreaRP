@@ -38,6 +38,6 @@ I run on a good mix friends, coffee and your usual geeky hobbies. When I’m not
 
 -->
 # Let's connect :)
-<a href="www.linkedin.com/in/andrea-rubio-ponce-55a34562"><img height="30" src="https://github.com/AndreaRP/assets/blob/main/social_13480311.png"/></a><a href="https://scholar.google.com/citations?user=v9RlphgAAAAJ"><img height="30" src="https://github.com/AndreaRP/assets/blob/main/mortarboard.png"/></a><a href="https://orcid.org/0000-0002-4275-8835"><img height="30" src="https://github.com/AndreaRP/assets/blob/main/orcid.png"/></a>
+<a href="https://www.linkedin.com/in/andrea-rubio-ponce-55a34562"><img height="30" src="https://github.com/AndreaRP/assets/blob/main/social_13480311.png"/></a><a href="https://scholar.google.com/citations?user=v9RlphgAAAAJ"><img height="30" src="https://github.com/AndreaRP/assets/blob/main/mortarboard.png"/></a><a href="https://orcid.org/0000-0002-4275-8835"><img height="30" src="https://github.com/AndreaRP/assets/blob/main/orcid.png"/></a>
 
 ![reversal](https://capsule-render.vercel.app/api?type=rect&color=0:259899,100:a82da8&height=5&reversal=true&section=footer)
