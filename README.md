@@ -15,7 +15,7 @@ I run on a good mix friends, coffee and your usual geeky hobbies. When I’m not
 
 - **Computational Biology**: 
 
-  - Circadian Biology: Checkout [CircaN](https://github.com/AndreaRP/CircaN), my R package for circadian gene detection ([Rubio-Ponce, A (2021)](https://doi.org/10.1093/nargab/lqab031)).
+  - Circadian Biology: Checkout [CircaN](https://github.com/AndreaRP/CircaN), the R package I created for circadian gene detection ([Rubio-Ponce, A (2021)](https://doi.org/10.1093/nargab/lqab031)).
   - Single Cell Transcriptomics 
   - Single Cell ATAC-seq 
   - Proteomics 
