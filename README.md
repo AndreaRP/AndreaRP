@@ -9,7 +9,7 @@ I started as a **biologist**, retooled as a **software dev** for a while, and no
 Most of my day is spent wrangling ~top secret~ unpublished data, so sadly many of my repos are under lockdown.
 If you peeked through the keyhole, you’d usually find me tinkering with **immunology** or **neurophysiology** molecular data.
 
-I run on a good mix friends, coffee and your usual geeky hobbies. When I’m not out with my people or staring at code or data, you can find me gaming, reading, or deep in some kind of crafting rabbit hole (Arduino, miniatures, cosplay… yes, all of it).
+I run on a good mix of friends, coffee and your usual geeky hobbies. When I’m not out with my people or staring at code or data, you can find me gaming, reading, or deep in some kind of crafting rabbit hole (Arduino, miniatures, cosplay… yes, all of it).
 
 # Toolkit
 
